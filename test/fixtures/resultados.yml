@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  jobName: MyString
+  buildNumber: 1
+  output: MyString
+  ejecutor: MyString
+  hora: MyString
+  fecha: 2018-08-14
+
+two:
+  jobName: MyString
+  buildNumber: 1
+  output: MyString
+  ejecutor: MyString
+  hora: MyString
+  fecha: 2018-08-14
